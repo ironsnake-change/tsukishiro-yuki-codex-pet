@@ -1,0 +1,44 @@
+{
+  "name": "月代雪 / Tsukishiro Yuki",
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frame_count": 73,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review",
+    "look 000-157.5",
+    "look 180-337.5"
+  ],
+  "sha256": "56b16e47273e2342b190d9853719a453c9aa94c7ede56e1a12ca4653a6ddf4e4",
+  "generated_with": "gpt-image-2.5",
+  "validation": {
+    "structural": true,
+    "pet_quality": true,
+    "platform_preflight": true,
+    "blind_cardinals": true,
+    "intermediate_direction_warnings": 6
+  }
+}
