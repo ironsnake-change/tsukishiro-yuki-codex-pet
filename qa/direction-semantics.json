@@ -1,0 +1,118 @@
+{
+  "source_sha256": "9654ebd87a823fd34e5030afaca921a3ec5497e39c9d4814c11aafd61bfce176",
+  "reviewer": "parent visual review of final direction sheet",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin raised, eyes lifted, lower face exposed below eyes."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Eyes lifted; face begins turning toward screen right, but horizontal cue is subtle."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Raised gaze with nose and chin offset toward screen right."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Face yaw toward screen right with slight raised gaze; pitch distinction is subtle."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Nose profile and chin clearly project toward screen right; far eye is reduced."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Face turned right with lowered eyelids and chin; pitch cue is subtle."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Chin lowered and face turned right; brim partly covers upper face."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Head bowed, face remains slightly right of center; horizontal cue is subtle."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Head bowed centrally, eyes downcast and brim covers upper face."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Head bowed with slight screen-left yaw; horizontal cue is subtle."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Chin and nose offset screen left with lowered gaze."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Face yaw toward screen left, chin remains slightly lowered."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Nose and chin project clearly toward screen left with reduced far eye."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Face turned screen left and gaze begins lifting; pitch cue is subtle."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Chin raised and nose projects screen left."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Eyes lifted with slight screen-left yaw; horizontal cue is subtle."
+    }
+  ]
+}

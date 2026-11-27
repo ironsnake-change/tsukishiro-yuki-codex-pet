@@ -32,13 +32,22 @@
     "look 000-157.5",
     "look 180-337.5"
   ],
-  "sha256": "56b16e47273e2342b190d9853719a453c9aa94c7ede56e1a12ca4653a6ddf4e4",
+  "sha256": "9654ebd87a823fd34e5030afaca921a3ec5497e39c9d4814c11aafd61bfce176",
   "generated_with": "gpt-image-2.5",
   "validation": {
     "structural": true,
-    "pet_quality": true,
+    "pet_quality_custom_grounded_greeting": true,
+    "default_jump_gate": false,
     "platform_preflight": true,
     "blind_cardinals": true,
-    "intermediate_direction_warnings": 6
+    "intermediate_direction_warnings": 12
+  },
+  "version": "1.1.0",
+  "visible_standing_height_px": 192,
+  "intentional_override": {
+    "slot": "jumping",
+    "behavior": "grounded head tilt, closed-eye smile and nod",
+    "minimum_jump_lift": 0,
+    "actual_jump_lift_px": 0
   }
 }

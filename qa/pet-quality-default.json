@@ -1,0 +1,78 @@
+{
+  "ok": false,
+  "atlas": "E:\\Study\\\u901a\u8bc6\u4e1b\u4e66\\output\\imagegen\\yuki-faithful-v3\\final\\spritesheet-extended.png",
+  "encoded_bytes": 2803864,
+  "sha256": "9654ebd87a823fd34e5030afaca921a3ec5497e39c9d4814c11aafd61bfce176",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      202,
+      202,
+      202,
+      202
+    ],
+    "airborne_lift_pixels": 0,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.0,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      94.5,
+      95.0,
+      94.5,
+      94.5,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.5
+    ],
+    "look_widths": [
+      108,
+      107,
+      107,
+      107,
+      107,
+      107,
+      106,
+      107,
+      103,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      103
+    ],
+    "maximum_center_drift_pixels": 1.0,
+    "maximum_width_ratio": 1.0588235294117647
+  },
+  "errors": [
+    "jumping never visibly leaves the ground: peak lift is 0px, expected at least 8px"
+  ],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 045 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 135 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 225 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "look direction 315 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (3283 pixels vs neighbor average 1805)",
+    "337.5->000 diff is a local outlier (3009 pixels vs neighbor average 1714)"
+  ]
+}
